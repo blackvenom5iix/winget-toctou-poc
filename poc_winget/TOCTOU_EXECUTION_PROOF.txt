@@ -1,0 +1,6 @@
+TOCTOU CONFIRMED - PAYLOAD EXECUTED
+Time: 2026-05-19 00:22:15.028
+PID: 15368
+User: test
+This EXE ran INSTEAD of the original installer
+winget did NOT re-verify the hash after replacement
